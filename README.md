@@ -2,7 +2,9 @@
 
 Welcome ShemmyYo,
 
-[Link:](https://shemmyyo.github.io/bootstrap-4-resume/)
+[Link 1:](https://shemmyyo.github.io/bootstrap-4-resume/)
+[Link 2:](https://shemmyyo.github.io/bootstrap-4-resume-2/)
+
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
